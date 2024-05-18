@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="QuanlyKhooooo.UserControlThanh.Header"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanlyKhooooo.UserControlThanh"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:viewmodel="clr-namespace:QuanlyKhooooo.ViewModel" d:DataContext="{d:DesignInstance Type=viewmodel:HeaderViewModel}"
+             mc:Ignorable="d" 
+             Width="1920" Height="auto"
+             Name="ucHeader"
+             >
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="MouseLeftButtonDown">
+            <i:InvokeCommandAction Command="{Binding MouseMoveWindowCommand}"
+                                   CommandParameter="{Binding ElementName=ucHeader}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+
+    <Grid>
+        <materialDesign:ColorZone Height="60"
+            Mode="Custom">
+            <materialDesign:ColorZone.Background>
+                <SolidColorBrush Color="#FFEB6B99" Opacity="0.3"/>
+            </materialDesign:ColorZone.Background>
+            <DockPanel>
+                <StackPanel DockPanel.Dock="Left"
+                    Orientation="Horizontal">
+                    <TextBlock
+                        Margin="16,0,0,0"
+                        VerticalAlignment="Center"
+                        Text="{Binding Tag, ElementName=ucHeader}" FontSize="35" FontWeight="Bold" Foreground="Black" />
+                </StackPanel>
+
+                    <StackPanel Width="152" DockPanel.Dock="Right" Orientation="Horizontal" Background="Transparent" 
+                        ClipToBounds="False" HorizontalAlignment="Right"
+                        >
+                        <Button  Background="Transparent" BorderBrush="Transparent"
+                            Command="{Binding MinimizeWindowCommand}"
+                            CommandParameter="{Binding ElementName=ucHeader}"
+                            Content="{materialDesign:PackIcon Kind=WindowMinimize}"
+                            ToolBar.OverflowMode="AsNeeded"
+                            ToolTip="WindowMinimize" />
+                        <Button   Background="Transparent" BorderBrush="Transparent"
+                            Command="{Binding MaximizeWindowCommand}"
+                            CommandParameter="{Binding ElementName=ucHeader}"
+                            Content="{materialDesign:PackIcon Kind=WindowMaximize}"
+                            ToolBar.OverflowMode="AsNeeded"
+                            ToolTip="WindowMaximize" />
+                        <Button   Background="Transparent" BorderBrush="Transparent"
+                            Command="{Binding CloseWindowCommand}"
+                            CommandParameter="{Binding ElementName=ucHeader}"
+                            Content="{materialDesign:PackIcon Kind=WindowClose}"
+                            ToolBar.OverflowMode="AsNeeded"
+                            ToolTip="WindowClose" />
+                        
+                    </StackPanel>
+                
+            </DockPanel>
+        </materialDesign:ColorZone>
+    </Grid>
+</UserControl>

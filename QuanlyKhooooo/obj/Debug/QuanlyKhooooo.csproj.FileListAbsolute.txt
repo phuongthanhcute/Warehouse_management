@@ -1,0 +1,104 @@
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\QuanlyKhooooo.exe.config
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\QuanlyKhooooo.exe
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\QuanlyKhooooo.pdb
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\EntityFramework.dll
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\MaterialDesignColors.dll
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\EntityFramework.xml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\MaterialDesignColors.pdb
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\Login.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\MainWindow.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\UserControlThanh\Header.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\CustomerWindow.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\InputWindow.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\ObjectsWindow.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\OutputWindow.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\SupplierWindow.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\UnitWindow.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\App.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo_Content.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo_MarkupCompile.cache
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo_MarkupCompile.lref
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\App.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\Login.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\MainWindow.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\UserControlThanh\Header.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\CustomerWindow.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\InputWindow.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\ObjectsWindow.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\OutputWindow.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\SupplierWindow.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\UnitWindow.baml
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.g.resources
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.csproj.CopyComplete
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.exe
+C:\Users\admin\OneDrive\Máy tính\Cơ sở ngành\Năm 3\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.pdb
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\QuanlyKhooooo.exe.config
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\QuanlyKhooooo.exe
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\QuanlyKhooooo.pdb
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\EntityFramework.dll
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\MaterialDesignColors.dll
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\System.Windows.Interactivity.dll
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\EntityFramework.xml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\MaterialDesignColors.pdb
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\bin\Debug\System.Windows.Interactivity.xml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.csproj.AssemblyReference.cache
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\Login.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\MainWindow.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\UserControlThanh\Header.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\CustomerWindow.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\InputWindow.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\ObjectsWindow.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\OutputWindow.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\SupplierWindow.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\UnitWindow.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\App.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo_Content.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo_MarkupCompile.cache
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo_MarkupCompile.lref
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\App.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\Login.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\MainWindow.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\ResourceXAML\MainResource.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\UserControlThanh\Header.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\CustomerWindow.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\InputWindow.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\ObjectsWindow.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\OutputWindow.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\SupplierWindow.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\View\UnitWindow.baml
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.g.resources
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.Properties.Resources.resources
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.csproj.GenerateResource.cache
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.csproj.CoreCompileInputs.cache
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.csproj.CopyComplete
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.exe
+D:\Cơ sở ngành\Năm 3\2023-1\project 1\QuanlyKhooooo\QuanlyKhooooo\obj\Debug\QuanlyKhooooo.pdb

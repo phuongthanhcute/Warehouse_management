@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="215e3539c88940b6b958c8a93cf8ebe5" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyKhoDBModel.Customer" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhoDBModel.Input" Width="1.5" PointX="5.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhoDBModel.Object" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhoDBModel.Output" Width="1.5" PointX="8.25" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhoDBModel.Supplier" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhoDBModel.Unit" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhoDBModel.UserRole" Width="1.5" PointX="0.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhoDBModel.User" Width="1.5" PointX="3" PointY="8.875" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyKhoDBModel.FK__Output__IdCustom__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKhoDBModel.FK__Input__Status__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKhoDBModel.FK__Objects__IdSuppl__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKhoDBModel.FK__Objects__IdUnit__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKhoDBModel.FK__Output__Status__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKhoDBModel.FK__Users__IdRole__5535A963" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

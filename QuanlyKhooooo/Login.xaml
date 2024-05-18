@@ -1,0 +1,109 @@
+﻿<Window x:Class="QuanlyKhooooo.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:viewmodel="clr-namespace:QuanlyKhooooo.ViewModel" d:DataContext="{d:DesignInstance Type=viewmodel:LoginViewModel}"
+        xmlns:local="clr-namespace:QuanlyKhooooo"
+        xmlns:uc="clr-namespace:QuanlyKhooooo.UserControlThanh"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        Name="loginWindow"
+        DataContext="{StaticResource LoginVM}"
+        Title="Đăng nhập" Height="1080" Width="1920" WindowStyle="None" >
+    <Grid Background="#FFF2F6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" ></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Width="auto">
+            <uc:Header Tag="{Binding Title, ElementName=loginWD}"></uc:Header>
+        </Grid>
+        <Grid Grid.Row="1">
+            <TextBlock Width="1200" Height="100" FontSize="40" Text="Địa chỉ: Quang Trung, Kiến Xương, Thái Bình" Margin="260,600,800,291" FontFamily="light"></TextBlock>
+            <TextBlock Text="Kho vật liệu xây dựng Thuận Thao" Width="600" Height="415" FontSize="96"  Margin="200,200,1000,291" TextWrapping="Wrap" FontWeight="Bold"  ></TextBlock>
+            <Ellipse Height="630" Width="630" Margin="-264,616,1554,-266" >
+                <Ellipse.Fill>
+                    <SolidColorBrush Color="#FFEB6B99" Opacity="0.6"/>
+                </Ellipse.Fill>
+            </Ellipse>
+
+            <Ellipse Width="500" Height="500" Margin="1535,751,-115,-271" >
+                <Ellipse.Fill>
+                    <SolidColorBrush Color="#FFEB6B99" Opacity="0.6"/>
+                </Ellipse.Fill>
+            </Ellipse>
+
+            <Ellipse Width="360" Height="360" Margin="1759,600,-199,20" >
+                <Ellipse.Fill>
+                    <SolidColorBrush Color="#FFEB6B99" Opacity="0.6"/>
+                </Ellipse.Fill>
+            </Ellipse>
+
+            <Ellipse Width="350" Height="350" Margin="900,170,600,400">
+                <Ellipse.Fill>
+                    <SolidColorBrush Color="#FFEB6B99" Opacity="0.6"/>
+                </Ellipse.Fill>
+            </Ellipse>
+
+            <TextBlock Height="100" Width="600" Text="Đăng nhập" FontSize="80" FontFamily="Montserrat" FontWeight="Bold"  Foreground="Black" Margin="1150,0,0,500"></TextBlock>
+
+            <materialDesign:Card UniformCornerRadius="20" VerticalAlignment="Center" HorizontalAlignment="Center" Height="300" Width="600 " Margin="998,200,0,200">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" Margin="20,15,20,0">
+                        <TextBox
+                        Text="{Binding UserName}"
+                        FontSize="30"
+                        VerticalAlignment="Center"
+                        materialDesign:HintAssist.Hint="Username"
+                        Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                    </Grid>
+
+                    <Grid Grid.Row="1" Margin="20,15,20,0">
+                        <PasswordBox x:Name="FloatingPasswordBox" FontSize="30"
+                                 materialDesign:HintAssist.Hint="Mật khẩu"
+                                 Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" >
+                            <i:Interaction.Triggers>
+                                <i:EventTrigger EventName="PasswordChanged">
+                                    <i:InvokeCommandAction Command="{Binding PasswordChangedCommand}" 
+                                   CommandParameter="{Binding ElementName=FloatingPasswordBox}"/>
+                                </i:EventTrigger>
+                            </i:Interaction.Triggers>
+                        </PasswordBox>
+                    </Grid>
+
+                    <Grid Grid.Row="2" Margin="20,15,20,0" VerticalAlignment="Center" >
+                        <Button
+                        IsDefault="True"
+                        Command="{Binding LoginCommand}"
+                        CommandParameter="{Binding ElementName=loginWindow}"
+                        Background="#D95757"
+                        Width="150"
+                        Height="40"
+                        Content="Log in"
+                        FontSize="20"
+                        FontFamily="IBM Plex Sans"
+                        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        ToolTip="Resource name: MaterialDesignRaisedButton" />
+                    </Grid>
+                </Grid>
+            </materialDesign:Card>
+        </Grid>
+    </Grid>
+
+</Window>
